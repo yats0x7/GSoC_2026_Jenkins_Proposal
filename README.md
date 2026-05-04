@@ -48,7 +48,7 @@ Work was done across multiple repositories, primarily focused on UI fixes, devel
 A detailed project proposal was prepared, reviewed, and iterated with feedback from mentors.
 
 Read it here:  
-[Add your proposal link]
+[https://docs.google.com/document/d/152cxjElEjlmIB3M8WQFbomjNgHqXYH33OqsuJ-mxg5s/edit?usp=sharing]
 
 ---
 
@@ -84,13 +84,9 @@ No reset. Only continuation.
 - Strengthen relationships with maintainers
 - Apply to parallel programs:
   - MLH Fellowship  
+  - C4GT  
   - Linux Foundation Mentorship (LFX)
 
----
-
-## Profile
-
-GitHub: https://github.com/yats0x7
 
 ---
 
